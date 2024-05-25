@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://boibazwasuar.github.io/sitemap.xml
